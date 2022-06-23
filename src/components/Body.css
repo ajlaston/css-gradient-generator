@@ -1,0 +1,31 @@
+.body {
+    display: flex;
+    justify-content: center;
+}
+
+.degree-container {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+#degree {
+    width: 30px;
+}
+
+.output-text {
+    border-radius: 5px;
+    background-color: rgb(206, 211, 214);
+    width: 482px;
+    margin-top: 5px;
+    padding: 10px;
+}
+
+.output-text h3{
+    font-size: 13px;
+    color: rgb(54, 54, 54);
+    font-family: Consolas,monaco,monospace; 
+}
+
+.prop {
+    color: rgb(195, 88, 74);
+}
